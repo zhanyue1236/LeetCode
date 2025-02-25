@@ -40,4 +40,36 @@ I’m using this space to:
 
 ---
 
-## 📁 Repository Structure
+## ✨ Approach & Conventions
+
+- 💡 **Problem Statement:** Understanding the requirements.
+- 🧠 **Approach:** Planning optimal solutions (brute-force to optimized).
+- 📝 **Code:** Clean and efficient code with comments.
+- ⏰ **Time Complexity:** Analyzed for each solution.
+- 📊 **Space Complexity:** Considered for all solutions.
+- ✅ **Test Cases:** Covering edge cases and expected inputs.
+
+---
+
+## 🚀 Useful Resources
+
+- [LeetCode](https://leetcode.com) – Main platform for problems.
+- [GeeksforGeeks](https://www.geeksforgeeks.org) – Deep dives into algorithms.
+- [NeetCode](https://neetcode.io) – Great for interview preparation.
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com) – Complexity references.
+
+---
+
+## 💡 Let's Connect!
+
+Feel free to connect or reach out — I'm always open to discussions and problem-solving collaborations! 🤝
+
+- 📫 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💻 [LeetCode Profile](https://leetcode.com/your-profile)
+
+---
+
+### 🚧 *Work In Progress* 🚧
+
+_This repo will be regularly updated as I solve more problems!_ ✨
