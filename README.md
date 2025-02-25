@@ -1,5 +1,5 @@
 # 📚 LeetCode Problem Solving Journey
-
+自用
 Hi there! 👋 I'm **Mark Jin**, and this is my personal repository where I document my journey through solving problems on **LeetCode**. 💡🚀
 
 I’m using this space to:
@@ -64,8 +64,8 @@ I’m using this space to:
 
 Feel free to connect or reach out — I'm always open to discussions and problem-solving collaborations! 🤝
 
-- 📫 [Email](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 [Email](mailto:zjin6597@163.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/zhouquan-jin/)
 - 💻 [LeetCode Profile](https://leetcode.com/your-profile)
 
 ---
