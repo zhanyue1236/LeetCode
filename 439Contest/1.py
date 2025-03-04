@@ -11,9 +11,6 @@ class Solution:
                 if num not in seen:
                     m[num] = m.get(num, 0) + 1
                     seen.add(num)
-        if k == n:
-            for num in nums:
-                m[num] = m.get(num, 0) + 1
 
         unique_nums = [num for num in m if m[num] == 1]
         return max(unique_nums) if unique_nums else -1

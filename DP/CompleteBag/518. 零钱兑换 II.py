@@ -5,11 +5,13 @@ class Solution:
         m = len(coins)
         dp = [0 for _ in range(n + 1)]
         ini = coins[0]
+        '''
         for i in range(n + 1):
             if i % ini == 0:
                 dp[i] = 1
-        #dp[0] = 0
-        for i in range(1, m):
+        '''
+        dp[0] = 1
+        for i in range(m):#可以不用初始第一个
             for j in range(n + 1):
                 if j - coins[i] >= 0:
                     dp[j] += dp[j - coins[i]]

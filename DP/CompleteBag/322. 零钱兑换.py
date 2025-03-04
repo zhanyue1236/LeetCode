@@ -19,6 +19,6 @@ class Solution:
         else:
             return dp[-1]
         
-S = Solution()
-print(S.coinChange([1,2,5], 11))
+#S = Solution()
+#print(S.coinChange([1,2,5], 11))
         
