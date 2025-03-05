@@ -8,10 +8,10 @@ class Solution:
             i += 1
         m = len(nums)
         dp = [99999999 for i in range(n + 1)]
-        dp[0] = 1
+        dp[0] = 0
         for i in range(m):
             for j in range(1, n + 1):
                 if j - nums[i] >= 0:
-                    dp[i] = min(dp[i], dp[j - nums[i]] + 1)
+                    dp[j] = min(dp[j], dp[j - nums[i]] + 1)
         return dp[-1]
 
