@@ -26,7 +26,7 @@ class Solution:
             yesRob = root.val + left[1] + right[1]
 
             noRob = max(left) + max(right)
-            
+            #Q: 为什么要加起来呢？因为相当于汇总起来，将左子树和右子树的钱加起来了
             return (yesRob, noRob)
         (left, right) = robNode(root)
         return max(left, right)
