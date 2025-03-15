@@ -54,9 +54,9 @@ def build_tree(values: List[Optional[int]]) -> Optional[TreeNode]:
                 i += 1
     return root
 
-# 构造输入二叉树，输入：[3,2,3,None,3,None,1]
+'# 构造输入二叉树，输入：[3,2,3,None,3,None,1]
 tree_values = [3, 2, 3, None, 3, None, 1]
-root = build_tree(tree_values)
+root = build_tree(tree_values)'
 
 S = Solution()
 S.rob(root)
